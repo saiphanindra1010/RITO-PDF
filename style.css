@@ -1,0 +1,43 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+header {
+    background-color: #133e48;
+    min-height: 30vh;
+    color: white;
+}
+
+#header .title,
+#header .subtitle {
+    color: white;
+}
+
+#header section.section {
+    padding-top: 5em;
+}
+
+#pdfPreview {
+    border-radius: 5px;
+}
+
+.operationsection {
+    margin-bottom: 3em;
+    transition: all 0.5s;
+}
+
+label {
+    font-weight: 600;
+}
+
+footer.footer {
+    padding: 3rem 1.5rem 3rem;
+}
+.hero-body
+{
+    background-color: rgb(34, 149, 250);
+}
+.icons
+{
+    color: rgb(34, 149, 250);
+}
